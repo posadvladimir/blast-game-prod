@@ -1,3 +1,3 @@
 # blast-game
 
-Blast Game project using TypeScript and PixiJS
+Blast Game using TypeScript and PixiJS

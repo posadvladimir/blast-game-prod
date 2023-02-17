@@ -1,0 +1,32 @@
+
+@font-face {
+    font-family: 'Marvin';
+    src: url(0b0440dad1201b851ced.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body, main {
+    height: 100%;
+}
+
+body {
+    font-family: 'Marvin';
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    border: 7px solid black;
+    border-radius: 7px;
+}
+
+/*# sourceMappingURL=main.6ba246b08158bc661d33.css.map*/

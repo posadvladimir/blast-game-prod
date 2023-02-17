@@ -1,3 +1,3 @@
 # blast-game
 
-Blast Game using TypeScript and PixiJS
+[Blast Game on GitHub Pages](https://posadvladimir.github.io/blast-game-prod/) 
